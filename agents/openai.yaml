@@ -1,0 +1,4 @@
+interface:
+  display_name: "李奎的投资助手skill"
+  short_description: "面向普通A股散户，按个人价值投资原则排雷、估值、检查仓位与复盘"
+  default_prompt: "请使用 $personal-ashare-investor（李奎的投资助手skill），按我的A股投资原则分析这家公司，先排雷，再看企业质量、安全边际和组合风险。"
